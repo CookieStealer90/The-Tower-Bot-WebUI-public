@@ -19,8 +19,11 @@
 <br>
 
 
-# NOT RELEASED
-THIS PROJECT IS NOT RELEASED - IT IS A SHOWCASE OF MY DEVELOPMENT IN MY PRIVATE REPO
+# ⚠️ Project Status
+THIS PROJECT IS NOT RELEASED.
+It is a showcase of my development work only.
+
+Maybe it will be released in the future — maybe not.
 
 
 
