@@ -21,7 +21,7 @@
 
 # ⚠️ Project Status
 THIS PROJECT IS NOT RELEASED.
-It is a showcase of my development work only.
+It is a showcase of my development work only - only used by me and some friends.
 
 Maybe it will be released in the future — maybe not.
 
